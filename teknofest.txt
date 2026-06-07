@@ -1,0 +1,268 @@
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+            <div class="container-fluid">
+                <img src="~/NewFolder1/Adsız.png" />
+
+                <div class="collapse navbar-collapse" id="navbarNavDropdown">
+
+                    <ul class="navbar-nav">
+                        <li class="col-12">
+                        </li>
+                        <li class="nav-item ">
+                            <a class="nav-link active text-end" aria-current="page" href="#">Kurumsal</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link active text-end" aria-current="page" href="#">Olay</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active text-end" aria-current="page" href="#">Yarışma</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active text-end" aria-current="page" href="#">Program</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active text-end" aria-current="page" href="#">Duyurular</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active text-end" aria-current="page" href="#">Kurumsal</a>
+                        </li>
+                        <li class="nav-item ">
+                            <a class="nav-link active text-end" aria-current="page" href="#">Dükkan</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active text-end" aria-current="page" href="#">Temas</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active text-end" aria-current="page" href="#">Galeri</a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+    </div>
+
+
+    <div class="container-fluid bg-primary">
+
+        <div class="p-3 "></div>
+        <div class="container mt-2 bg-white w-25 rounded-5 justify-content-center">
+            <div class="row">
+                <div class="col-6 text-start">Yarışma Ara</div>
+                <div class=" col-6 text-end">Tüm Kategoriler</div>
+            </div>
+
+        </div>
+
+        <div class="container p-5">
+            <div class="row justify-content-center d-flex ">
+                <div class="col-2"></div>
+                <div class="col-1"> <img src="~/NewFolder1/1.png" class="rounded-5 bg-white img-fluid " /></div>
+                <div class="col-1"> <img src="~/NewFolder1/ap4QVoc4PYn4JEP9cnXlqJjXYIQiKe1l.png" class="rounded-5 bg-white img-fluid" /></div>
+                <div class="col-1"> <img src="~/NewFolder1/1.png" class="rounded-5 bg-white img-fluid" /></div>
+                <div class="col-1"> <img src="~/NewFolder1/1.png" class="rounded-5 bg-white img-fluid" /></div>
+                <div class="col-1"> <img src="~/NewFolder1/ap4QVoc4PYn4JEP9cnXlqJjXYIQiKe1l.png" class="rounded-5 bg-white img-fluid" /></div>
+                <div class="col-1"> <img src="~/NewFolder1/1.png" class="rounded-5 bg-white img-fluid" /></div>
+                <div class="col-1"> <img src="~/NewFolder1/1.png" class="rounded-5 bg-white img-fluid" /></div>
+                <div class="col-2"></div>
+            </div>
+            <div class="container ">
+                <div class="row justify-content-center d-flex text-white ">
+                    <div class="col-2"></div>
+                    <div class="col-1"> <p>Tüm Kategoriler</p></div>
+                    <div class="col-1"> <p>İlkokul</p></div>
+                    <div class="col-1"> <p>Ortaokul</p></div>
+                    <div class="col-1"> <p>Lise</p></div>
+                    <div class="col-1"> <p>Lisans ve Yükseklisans</p></div>
+                    <div class="col-1"> <p>Mezun</p></div>
+                    <div class="col-1"> <p>Kurumsal Sektör</p></div>
+                    <div class="col-2"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row justify-content-center">
+
+                <div class="col-md-3 p-3">
+                    <div class="bg-white rounded-2 p-3 text-center">
+
+                        <p class="fw-bold">Teknofest Girişim Yarışması</p>
+
+                        <img src="~/NewFolder1/3.png" class="w-75">
+
+                        <div class="mt-3">
+                            <div class="bg-success text-white rounded-5 px-4 py-2 d-inline-block">
+                                Başvuru Aşaması
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+
+                <div class="col-md-3 p-3">
+                    <div class="bg-white rounded-2 p-3 text-center">
+
+                        <p class="fw-bold">Akıllı Ulaşım Yarışması</p>
+
+                        <img src="~/NewFolder1/6.png" class="w-75">
+
+                        <div class="mt-3">
+                            <div class="bg-primary text-white rounded-5 px-4 py-2 d-inline-block">
+                                Tamamlandı
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-md-3 p-3">
+                    <div class="bg-white rounded-2 p-3 text-center">
+
+                        <p class="fw-bold">Teknofest İnovasyon Yarışması</p>
+
+                        <img src="~/NewFolder1/3.png" class="w-75">
+
+                        <div class="mt-3">
+                            <div class="bg-success text-white rounded-5 px-4 py-2 d-inline-block">
+                                Başvuru Aşaması
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-md-3 p-3">
+                    <div class="bg-white rounded-2 p-3 text-center">
+
+                        <p class="fw-bold">Çevre ve Enerji Teknolojileri</p>
+
+                        <img src="~/NewFolder1/5.png" class="w-75">
+
+                        <div class="mt-3">
+                            <div class="bg-success text-white rounded-5 px-4 py-2 d-inline-block">
+                                Başvuru Aşaması
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+
+            </div>
+
+            <div class="row justify-content-center">
+
+                <div class="col-md-3 p-3">
+                    <div class="bg-white rounded-2 p-3 text-center">
+
+                        <p class="fw-bold">Teknofest Girişim Yarışması</p>
+
+                        <img src="~/NewFolder1/3.png" class="w-75">
+
+                        <div class="mt-3">
+                            <div class="bg-success text-white rounded-5 px-4 py-2 d-inline-block">
+                                Başvuru Aşaması
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+
+                <div class="col-md-3 p-3">
+                    <div class="bg-white rounded-2 p-3 text-center">
+
+                        <p class="fw-bold">Akıllı Ulaşım Yarışması</p>
+
+                        <img src="~/NewFolder1/6.png" class="w-75">
+
+                        <div class="mt-3">
+                            <div class="bg-primary text-white rounded-5 px-4 py-2 d-inline-block">
+                                Tamamlandı
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-md-3 p-3">
+                    <div class="bg-white rounded-2 p-3 text-center">
+
+                        <p class="fw-bold">Teknofest İnovasyon Yarışması</p>
+
+                        <img src="~/NewFolder1/3.png" class="w-75">
+
+                        <div class="mt-3">
+                            <div class="bg-success text-white rounded-5 px-4 py-2 d-inline-block">
+                                Başvuru Aşaması
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-md-3 p-3">
+                    <div class="bg-white rounded-2 p-3 text-center">
+
+                        <p class="fw-bold">Çevre ve Enerji Teknolojileri</p>
+
+                        <img src="~/NewFolder1/5.png" class="w-75">
+
+                        <div class="mt-3">
+                            <div class="bg-success text-white rounded-5 px-4 py-2 d-inline-block">
+                                Başvuru Aşaması
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+
+
+
+      
+
+    </div>
+
+
+    <div class="container-fluid bg-info">
+        <div class="row">
+            <div class="col-3">
+                <img src="~/NewFolder1/Adsız.png" class="ps-5" />
+            </div>
+            <div class="col-3">
+                <div class="fw-bold">Adres</div>
+                <div>Ünalan Mahallesi Ayazma Caddesi No:3 Üsküdar/İstanbul</div>
+            </div>
+            <div class="col-3">
+                <div class="fw-bold">Telefon</div>
+                <div>+90 123 456 78 90</div>
+            </div>
+            <div class="col-3"> <div class="fw-bold">Sosyal Medya </div></div>
+        </div>
+    </div>
+
+
+
+
+        <script src="js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>
